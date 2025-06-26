@@ -1,6 +1,6 @@
 # Laboratorio Virtual de un Motor de Corriente Continua
 
-Este repositorio contiene el desarrollo de un entorno de simulación y control orientado a replicar el comportamiento dinámico de un motor de corriente continua (DC) mediante un gemelo digital. El sistema permite experimentar, visualizar y analizar el funcionamiento del motor de forma virtual, sin necesidad de acceso físico al hardware.
+Este repositorio contiene el desarrollo de un entorno de simulación y control orientado a replicar el comportamiento dinámico de un motor de corriente continua (CC) mediante un gemelo digital. El sistema permite experimentar, visualizar y analizar el funcionamiento del motor de forma virtual, sin necesidad de acceso físico al hardware.
 
 ## 📌 Objetivos
 
@@ -14,6 +14,7 @@ Este repositorio contiene el desarrollo de un entorno de simulación y control o
 
 - MATLAB / Simulink
 - Simscape y Simscape Multibody
+- SolidWorks
 - Interfaz gráfica de usuario (GUI) en Simulink
 - Tarjeta de adquisición de datos para comunicación con el sistema físico
 
