@@ -2,10 +2,6 @@
 
 Este repositorio contiene el desarrollo de un entorno de simulación y control orientado a replicar el comportamiento dinámico de un motor de corriente continua (CC) mediante un gemelo digital. El sistema permite experimentar, visualizar y analizar el funcionamiento del motor de forma virtual, sin necesidad de acceso físico al hardware.
 
-## Vista del modelo 3D
-
-![Modelo 3D](Imágenes/Modelo_3D.png)
-
 ## 📌 Objetivos
 
 - Simular el comportamiento dinámico de un motor de CC con precisión realista.
@@ -30,6 +26,9 @@ Este repositorio contiene el desarrollo de un entorno de simulación y control o
 - Análisis de datos recogidos desde sensores: velocidad, posición y señal de actuación.
 - Visualización del movimiento del motor en 3D sincronizado con los datos físicos o simulados.
 
+## Vista del modelo 3D
+
+![Modelo 3D](Imágenes/Modelo_3D.png)
 
 ## 🎥 VÍDEOS DEMOSTRATIVOS
 
